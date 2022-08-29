@@ -1,0 +1,1001 @@
+Name,Date,Time In,Time Out,Full Time/Part Time,Hours Allocated
+Person 1,,07:55,05:07,Full Time ,194
+Person 2,,06:46,07:55,Part Time,72
+Person 3,,08:46,06:09,Part Time,89
+Person 4,,10:19,11:31,Full Time,216
+Person 5,,05:31,04:35,Part Time,101
+Person 6,,11:42,11:54,Full Time,214
+Person 7,,10:44,06:56,Full Time ,153
+Person 8,,08:01,08:09,Full Time,76
+Person 9,,07:57,09:17,Part Time,220
+Person 10,,07:48,04:04,Part Time,212
+Person 11,,10:48,07:11,Full Time,221
+Person 12,,07:58,11:08,Part Time,162
+Person 13,,07:56,09:14,Full Time,100
+Person 14,,10:04,06:42,Part Time,98
+Person 15,,10:27,08:42,Full Time,82
+Person 16,,06:37,05:28,Full Time,109
+Person 17,,10:35,07:49,Part Time,203
+Person 18,,07:25,09:48,Part Time,72
+Person 19,,11:11,06:37,Part Time,192
+Person 20,,10:36,08:58,Full Time ,245
+Person 21,,09:32,07:58,Part Time,246
+Person 22,,11:01,05:40,Part Time,171
+Person 23,,08:31,05:39,Full Time,120
+Person 24,,07:54,02:32,Part Time,217
+Person 25,,09:27,03:56,Full Time,231
+Person 26,,09:55,02:43,Full Time ,97
+Person 27,,11:36,09:11,Full Time,145
+Person 28,,07:23,06:58,Part Time,117
+Person 29,,11:15,03:54,Part Time,149
+Person 30,,09:44,09:04,Full Time,212
+Person 31,,11:50,05:34,Part Time,204
+Person 32,,05:10,11:50,Full Time,69
+Person 33,,07:43,10:02,Part Time,149
+Person 34,,05:20,03:18,Full Time,92
+Person 35,,10:24,07:57,Full Time,225
+Person 36,,05:47,05:39,Part Time,213
+Person 37,,11:47,11:47,Part Time,107
+Person 38,,05:06,08:34,Part Time,217
+Person 39,,10:47,06:04,Full Time ,130
+Person 40,,11:18,09:18,Part Time,200
+Person 41,,06:42,11:50,Part Time,129
+Person 42,,09:12,09:23,Full Time,63
+Person 43,,07:12,02:13,Part Time,203
+Person 44,,11:08,05:13,Full Time,98
+Person 45,,05:25,04:16,Full Time ,220
+Person 46,,10:37,06:36,Full Time,101
+Person 47,,07:18,07:21,Part Time,250
+Person 48,,05:34,04:02,Part Time,109
+Person 49,,08:32,10:43,Full Time,72
+Person 50,,10:27,05:46,Part Time,192
+Person 51,,08:37,09:18,Full Time,178
+Person 52,,10:48,08:30,Part Time,68
+Person 53,,05:37,02:12,Full Time,245
+Person 54,,07:10,07:24,Full Time,136
+Person 55,,11:01,10:29,Part Time,185
+Person 56,,11:45,10:00,Part Time,173
+Person 57,,05:50,02:13,Part Time,127
+Person 58,,08:01,04:01,Full Time ,92
+Person 59,,08:57,10:16,Part Time,67
+Person 60,,07:56,08:04,Part Time,187
+Person 61,,07:11,10:32,Full Time,202
+Person 62,,06:42,09:00,Part Time,131
+Person 63,,08:05,04:59,Full Time,205
+Person 64,,05:48,06:02,Full Time ,186
+Person 65,,05:37,06:53,Full Time,240
+Person 66,,06:56,05:48,Part Time,207
+Person 67,,09:06,07:16,Part Time,163
+Person 68,,08:45,07:24,Full Time,206
+Person 69,,06:48,09:40,Part Time,89
+Person 70,,09:11,02:52,Full Time,111
+Person 71,,10:24,07:11,Part Time,236
+Person 72,,07:10,07:31,Full Time,206
+Person 73,,08:06,06:13,Full Time,166
+Person 74,,10:57,09:56,Part Time,172
+Person 75,,08:50,07:31,Part Time,165
+Person 76,,05:03,03:21,Part Time,178
+Person 77,,05:00,08:56,Full Time ,109
+Person 78,,11:47,05:24,Part Time,182
+Person 79,,11:06,08:07,Part Time,189
+Person 80,,06:14,10:50,Full Time,204
+Person 81,,05:00,04:57,Part Time,197
+Person 82,,05:04,11:11,Full Time,237
+Person 83,,11:04,06:43,Full Time ,119
+Person 84,,05:59,04:44,Full Time,221
+Person 85,,08:14,06:59,Part Time,99
+Person 86,,09:52,02:50,Part Time,189
+Person 87,,06:43,07:19,Full Time,201
+Person 88,,08:41,09:09,Part Time,120
+Person 89,,05:22,07:29,Full Time,70
+Person 90,,10:24,06:05,Part Time,118
+Person 91,,05:07,11:49,Full Time,195
+Person 92,,10:44,09:19,Full Time,145
+Person 93,,06:20,10:52,Part Time,72
+Person 94,,05:11,08:52,Part Time,141
+Person 95,,06:05,06:30,Part Time,207
+Person 96,,06:44,05:32,Full Time ,100
+Person 97,,10:33,04:28,Part Time,80
+Person 98,,05:19,09:00,Part Time,223
+Person 99,,05:46,10:52,Full Time,248
+Person 100,,07:28,09:02,Part Time,230
+Person 101,,10:35,03:24,Full Time,79
+Person 102,,06:40,11:35,Full Time ,118
+Person 103,,08:13,04:26,Full Time,149
+Person 104,,07:28,07:08,Part Time,119
+Person 105,,05:07,02:42,Part Time,155
+Person 106,,08:44,08:35,Full Time,221
+Person 107,,06:37,05:03,Part Time,101
+Person 108,,05:22,10:43,Full Time,237
+Person 109,,05:17,05:46,Part Time,89
+Person 110,,07:23,03:58,Full Time,147
+Person 111,,05:39,11:44,Full Time,215
+Person 112,,08:52,11:13,Part Time,143
+Person 113,,08:23,09:04,Part Time,81
+Person 114,,11:04,02:39,Part Time,206
+Person 115,,05:21,05:28,Full Time ,170
+Person 116,,07:17,07:15,Part Time,170
+Person 117,,06:27,09:51,Part Time,133
+Person 118,,10:47,09:35,Full Time,92
+Person 119,,05:41,02:12,Part Time,111
+Person 120,,08:06,11:52,Full Time,85
+Person 121,,11:40,06:48,Full Time ,227
+Person 122,,10:11,06:59,Full Time,206
+Person 123,,11:36,04:57,Part Time,66
+Person 124,,09:45,11:14,Part Time,235
+Person 125,,06:57,02:20,Full Time,146
+Person 126,,09:12,02:39,Part Time,75
+Person 127,,11:01,04:25,Full Time,142
+Person 128,,06:11,03:12,Part Time,121
+Person 129,,10:25,09:47,Full Time,156
+Person 130,,09:23,10:51,Full Time,154
+Person 131,,09:40,02:12,Part Time,236
+Person 132,,11:32,11:08,Part Time,102
+Person 133,,05:31,10:02,Part Time,108
+Person 134,,05:09,09:10,Full Time ,233
+Person 135,,11:17,04:52,Part Time,232
+Person 136,,06:12,02:45,Part Time,134
+Person 137,,08:54,08:06,Full Time,98
+Person 138,,07:13,09:50,Part Time,66
+Person 139,,07:18,03:47,Full Time,170
+Person 140,,09:12,07:17,Full Time ,94
+Person 141,,07:01,03:25,Full Time,237
+Person 142,,10:06,03:20,Part Time,104
+Person 143,,07:42,11:49,Part Time,134
+Person 144,,07:36,06:11,Full Time,107
+Person 145,,06:59,05:41,Part Time,114
+Person 146,,07:36,03:40,Full Time,205
+Person 147,,06:05,06:15,Part Time,230
+Person 148,,06:05,02:17,Full Time,251
+Person 149,,06:14,02:50,Full Time,150
+Person 150,,09:33,10:50,Part Time,122
+Person 151,,06:48,05:45,Part Time,67
+Person 152,,11:23,11:35,Part Time,209
+Person 153,,11:17,08:09,Full Time ,164
+Person 154,,06:47,04:50,Part Time,221
+Person 155,,07:25,08:39,Part Time,218
+Person 156,,09:46,08:19,Full Time,243
+Person 157,,07:01,09:30,Part Time,103
+Person 158,,07:48,08:17,Full Time,245
+Person 159,,08:51,10:54,Full Time ,104
+Person 160,,06:49,09:44,Full Time,186
+Person 161,,06:42,06:44,Part Time,187
+Person 162,,09:52,10:29,Part Time,136
+Person 163,,05:07,03:06,Full Time,72
+Person 164,,05:56,11:10,Part Time,112
+Person 165,,08:21,10:36,Full Time,218
+Person 166,,11:33,05:24,Part Time,203
+Person 167,,07:37,08:37,Full Time,184
+Person 168,,07:32,03:41,Full Time,81
+Person 169,,11:14,11:25,Part Time,135
+Person 170,,08:59,08:29,Part Time,125
+Person 171,,11:48,08:23,Part Time,167
+Person 172,,06:15,08:12,Full Time ,193
+Person 173,,05:56,05:38,Part Time,91
+Person 174,,06:10,04:12,Part Time,185
+Person 175,,09:28,11:51,Full Time,218
+Person 176,,05:53,08:43,Part Time,115
+Person 177,,06:13,04:05,Full Time,190
+Person 178,,07:28,05:05,Full Time ,88
+Person 179,,11:00,09:22,Full Time,89
+Person 180,,07:29,05:01,Part Time,206
+Person 181,,07:09,08:28,Part Time,65
+Person 182,,11:42,06:49,Full Time,166
+Person 183,,07:57,07:00,Part Time,73
+Person 184,,07:35,11:29,Full Time,174
+Person 185,,08:51,09:50,Part Time,137
+Person 186,,11:33,10:12,Full Time,218
+Person 187,,11:19,02:14,Full Time,247
+Person 188,,05:18,03:18,Part Time,112
+Person 189,,06:32,06:58,Part Time,114
+Person 190,,09:24,11:05,Part Time,95
+Person 191,,09:22,06:56,Full Time ,217
+Person 192,,05:44,03:55,Part Time,141
+Person 193,,05:20,02:29,Part Time,91
+Person 194,,07:17,02:34,Full Time,206
+Person 195,,07:20,03:04,Part Time,189
+Person 196,,08:10,09:31,Full Time,117
+Person 197,,07:25,09:55,Full Time ,239
+Person 198,,11:35,10:45,Full Time,218
+Person 199,,07:01,06:31,Part Time,80
+Person 200,,10:13,05:56,Part Time,212
+Person 201,,08:07,07:01,Full Time,63
+Person 202,,08:53,05:53,Part Time,221
+Person 203,,05:58,05:13,Full Time,208
+Person 204,,09:21,11:42,Part Time,242
+Person 205,,11:49,07:55,Full Time,136
+Person 206,,06:20,04:15,Full Time,180
+Person 207,,10:05,09:50,Part Time,132
+Person 208,,09:02,07:44,Part Time,245
+Person 209,,08:01,10:14,Part Time,73
+Person 210,,10:45,03:20,Full Time ,184
+Person 211,,10:24,07:44,Part Time,196
+Person 212,,06:10,09:24,Part Time,209
+Person 213,,05:10,03:10,Full Time,138
+Person 214,,10:56,03:54,Part Time,100
+Person 215,,07:22,04:57,Full Time,252
+Person 216,,09:26,10:16,Full Time ,243
+Person 217,,11:15,07:26,Full Time,186
+Person 218,,09:43,06:07,Part Time,151
+Person 219,,05:01,05:07,Part Time,212
+Person 220,,06:41,08:49,Full Time,82
+Person 221,,08:21,09:41,Part Time,176
+Person 222,,11:18,04:41,Full Time,124
+Person 223,,10:20,10:30,Part Time,73
+Person 224,,10:45,10:04,Full Time,168
+Person 225,,05:42,11:12,Full Time,231
+Person 226,,10:12,09:05,Part Time,157
+Person 227,,11:41,06:02,Part Time,217
+Person 228,,11:35,02:59,Part Time,156
+Person 229,,10:07,03:48,Full Time ,250
+Person 230,,10:47,09:06,Part Time,224
+Person 231,,10:08,05:24,Part Time,81
+Person 232,,11:01,11:42,Full Time,221
+Person 233,,07:43,05:16,Part Time,139
+Person 234,,07:31,03:38,Full Time,158
+Person 235,,05:33,06:08,Full Time ,116
+Person 236,,06:12,04:32,Full Time,240
+Person 237,,09:46,11:36,Part Time,114
+Person 238,,10:58,02:37,Part Time,228
+Person 239,,10:35,10:17,Full Time,80
+Person 240,,08:13,09:17,Part Time,113
+Person 241,,09:34,04:20,Full Time,82
+Person 242,,05:36,05:50,Part Time,93
+Person 243,,09:02,07:21,Full Time,229
+Person 244,,09:26,05:26,Full Time,69
+Person 245,,07:48,08:17,Part Time,156
+Person 246,,11:37,11:04,Part Time,88
+Person 247,,10:27,07:23,Part Time,226
+Person 248,,10:33,05:23,Full Time ,89
+Person 249,,10:14,08:09,Part Time,173
+Person 250,,11:28,05:30,Part Time,221
+Person 251,,08:52,04:16,Full Time,154
+Person 252,,08:26,06:29,Part Time,212
+Person 253,,09:59,10:47,Full Time,181
+Person 254,,09:37,09:19,Full Time ,207
+Person 255,,09:06,02:32,Full Time,190
+Person 256,,05:54,03:16,Part Time,69
+Person 257,,09:02,05:21,Part Time,213
+Person 258,,10:38,08:45,Full Time,86
+Person 259,,11:03,04:36,Part Time,181
+Person 260,,11:13,05:57,Full Time,132
+Person 261,,11:39,03:44,Part Time,95
+Person 262,,10:32,08:00,Full Time,215
+Person 263,,10:48,10:41,Full Time,81
+Person 264,,06:40,06:20,Part Time,244
+Person 265,,08:30,10:40,Part Time,198
+Person 266,,09:03,04:42,Part Time,110
+Person 267,,08:26,09:24,Full Time ,222
+Person 268,,07:18,04:54,Part Time,212
+Person 269,,10:45,05:28,Part Time,135
+Person 270,,08:35,02:09,Full Time,131
+Person 271,,07:03,03:46,Part Time,109
+Person 272,,11:33,05:35,Full Time,78
+Person 273,,07:17,05:49,Full Time ,124
+Person 274,,09:20,04:13,Full Time,207
+Person 275,,11:05,05:18,Part Time,149
+Person 276,,09:27,03:56,Part Time,170
+Person 277,,05:29,08:32,Full Time,222
+Person 278,,07:31,03:53,Part Time,70
+Person 279,,06:36,07:24,Full Time,137
+Person 280,,10:47,03:42,Part Time,64
+Person 281,,05:04,02:43,Full Time,209
+Person 282,,10:25,06:07,Full Time,211
+Person 283,,08:39,09:01,Part Time,231
+Person 284,,11:53,03:40,Part Time,237
+Person 285,,07:49,06:54,Part Time,97
+Person 286,,07:09,07:50,Full Time ,231
+Person 287,,05:17,10:05,Part Time,161
+Person 288,,06:11,11:53,Part Time,249
+Person 289,,10:58,04:28,Full Time,150
+Person 290,,06:49,03:44,Part Time,142
+Person 291,,11:29,11:44,Full Time,238
+Person 292,,06:33,08:48,Full Time ,106
+Person 293,,11:04,09:09,Full Time,120
+Person 294,,10:30,06:28,Part Time,89
+Person 295,,10:35,06:37,Part Time,69
+Person 296,,07:53,02:51,Full Time,164
+Person 297,,10:37,07:34,Part Time,159
+Person 298,,10:12,02:14,Full Time,204
+Person 299,,08:06,08:32,Part Time,174
+Person 300,,08:14,02:53,Full Time,215
+Person 301,,09:27,04:46,Full Time,231
+Person 302,,07:27,09:00,Part Time,126
+Person 303,,09:55,04:05,Part Time,211
+Person 304,,10:27,11:15,Part Time,69
+Person 305,,05:59,05:53,Full Time ,248
+Person 306,,09:49,04:50,Part Time,136
+Person 307,,10:27,05:18,Part Time,74
+Person 308,,09:49,08:52,Full Time,206
+Person 309,,11:09,07:58,Part Time,209
+Person 310,,07:48,06:06,Full Time,179
+Person 311,,07:31,07:19,Full Time ,131
+Person 312,,05:01,09:52,Full Time,216
+Person 313,,09:40,04:51,Part Time,79
+Person 314,,10:13,03:02,Part Time,161
+Person 315,,06:44,03:28,Full Time,195
+Person 316,,11:00,07:37,Part Time,252
+Person 317,,06:34,11:06,Full Time,92
+Person 318,,05:54,08:59,Part Time,130
+Person 319,,08:47,07:15,Full Time,81
+Person 320,,05:39,07:45,Full Time,103
+Person 321,,06:23,11:26,Part Time,86
+Person 322,,10:09,04:02,Part Time,110
+Person 323,,11:07,10:05,Part Time,145
+Person 324,,09:46,04:01,Full Time ,225
+Person 325,,11:27,07:06,Part Time,129
+Person 326,,09:12,10:12,Part Time,251
+Person 327,,10:38,03:56,Full Time,251
+Person 328,,09:43,03:52,Part Time,132
+Person 329,,11:34,03:15,Full Time,115
+Person 330,,08:33,05:41,Full Time ,181
+Person 331,,05:24,08:13,Full Time,65
+Person 332,,06:06,08:17,Part Time,175
+Person 333,,10:15,07:54,Part Time,203
+Person 334,,09:37,09:46,Full Time,199
+Person 335,,05:39,02:42,Part Time,67
+Person 336,,07:20,07:11,Full Time,73
+Person 337,,05:23,07:32,Part Time,111
+Person 338,,10:02,06:48,Full Time,155
+Person 339,,07:18,10:37,Full Time,226
+Person 340,,08:25,07:10,Part Time,187
+Person 341,,07:08,03:25,Part Time,213
+Person 342,,05:19,08:35,Part Time,189
+Person 343,,06:32,10:05,Full Time ,231
+Person 344,,05:07,11:52,Part Time,111
+Person 345,,08:50,08:06,Part Time,99
+Person 346,,07:30,08:31,Full Time,218
+Person 347,,08:23,06:24,Part Time,203
+Person 348,,11:27,07:07,Full Time,86
+Person 349,,05:54,03:08,Full Time ,214
+Person 350,,11:27,08:20,Full Time,203
+Person 351,,11:07,03:24,Part Time,165
+Person 352,,07:33,03:44,Part Time,205
+Person 353,,06:30,06:15,Full Time,191
+Person 354,,08:24,09:21,Part Time,136
+Person 355,,05:22,08:42,Full Time,240
+Person 356,,10:09,09:44,Part Time,247
+Person 357,,11:22,09:28,Full Time,247
+Person 358,,09:53,04:23,Full Time,158
+Person 359,,08:41,05:03,Part Time,80
+Person 360,,09:06,11:10,Part Time,153
+Person 361,,07:02,08:39,Part Time,229
+Person 362,,09:02,04:33,Full Time ,172
+Person 363,,11:24,08:05,Part Time,176
+Person 364,,07:20,06:11,Part Time,170
+Person 365,,09:37,10:26,Full Time,153
+Person 366,,10:58,06:06,Part Time,97
+Person 367,,07:36,10:49,Full Time,163
+Person 368,,06:29,11:58,Full Time ,213
+Person 369,,05:45,03:07,Full Time,244
+Person 370,,07:56,07:39,Part Time,120
+Person 371,,08:52,04:37,Part Time,201
+Person 372,,06:22,05:55,Full Time,73
+Person 373,,09:14,05:31,Part Time,96
+Person 374,,06:02,05:54,Full Time,114
+Person 375,,06:24,08:15,Part Time,242
+Person 376,,11:02,04:27,Full Time,104
+Person 377,,10:44,10:18,Full Time,114
+Person 378,,08:00,09:34,Part Time,117
+Person 379,,06:23,08:33,Part Time,214
+Person 380,,06:06,11:42,Part Time,175
+Person 381,,06:26,07:17,Full Time ,66
+Person 382,,07:54,06:41,Part Time,203
+Person 383,,10:48,09:01,Part Time,92
+Person 384,,10:56,08:49,Full Time,225
+Person 385,,05:09,07:21,Part Time,213
+Person 386,,11:12,08:18,Full Time,162
+Person 387,,11:17,07:17,Full Time ,102
+Person 388,,06:45,10:47,Full Time,190
+Person 389,,08:43,07:42,Part Time,122
+Person 390,,10:41,03:57,Part Time,230
+Person 391,,08:27,06:44,Full Time,235
+Person 392,,06:40,02:33,Part Time,201
+Person 393,,11:07,06:28,Full Time,194
+Person 394,,07:47,09:34,Part Time,232
+Person 395,,06:47,03:46,Full Time,155
+Person 396,,05:33,09:43,Full Time,115
+Person 397,,11:36,06:44,Part Time,231
+Person 398,,06:47,06:54,Part Time,191
+Person 399,,07:11,09:04,Part Time,178
+Person 400,,10:09,10:42,Full Time ,132
+Person 401,,11:57,09:19,Part Time,240
+Person 402,,09:29,06:22,Part Time,66
+Person 403,,07:27,08:47,Full Time,180
+Person 404,,08:21,07:18,Part Time,163
+Person 405,,10:09,07:07,Full Time,120
+Person 406,,07:50,10:15,Full Time ,126
+Person 407,,10:09,10:24,Full Time,123
+Person 408,,08:23,09:42,Part Time,70
+Person 409,,06:42,05:25,Part Time,129
+Person 410,,05:57,02:49,Full Time,183
+Person 411,,05:50,07:34,Part Time,176
+Person 412,,11:28,08:15,Full Time,75
+Person 413,,06:49,07:46,Part Time,122
+Person 414,,07:52,05:57,Full Time,159
+Person 415,,09:10,09:03,Full Time,203
+Person 416,,09:24,10:46,Part Time,218
+Person 417,,06:28,10:20,Part Time,75
+Person 418,,09:42,05:20,Part Time,65
+Person 419,,06:14,07:57,Full Time ,207
+Person 420,,11:17,07:13,Part Time,118
+Person 421,,09:38,05:04,Part Time,176
+Person 422,,06:58,11:18,Full Time,71
+Person 423,,06:07,10:20,Part Time,161
+Person 424,,06:53,06:28,Full Time,78
+Person 425,,11:41,06:48,Full Time ,209
+Person 426,,09:06,11:23,Full Time,141
+Person 427,,11:09,05:30,Part Time,180
+Person 428,,06:53,10:36,Part Time,153
+Person 429,,06:35,09:05,Full Time,172
+Person 430,,09:20,07:56,Part Time,188
+Person 431,,07:12,04:23,Full Time,147
+Person 432,,06:00,11:19,Part Time,82
+Person 433,,07:34,09:44,Full Time,72
+Person 434,,05:03,03:57,Full Time,188
+Person 435,,05:45,08:10,Part Time,80
+Person 436,,07:13,10:47,Part Time,175
+Person 437,,05:02,09:17,Part Time,139
+Person 438,,05:29,03:06,Full Time ,181
+Person 439,,10:22,05:02,Part Time,249
+Person 440,,06:04,05:20,Part Time,238
+Person 441,,06:18,03:01,Full Time,157
+Person 442,,10:48,07:01,Part Time,90
+Person 443,,05:20,10:22,Full Time,91
+Person 444,,11:39,05:15,Full Time ,196
+Person 445,,06:16,11:33,Full Time,247
+Person 446,,09:48,02:32,Part Time,74
+Person 447,,11:25,03:39,Part Time,111
+Person 448,,09:04,06:12,Full Time,116
+Person 449,,08:38,04:17,Part Time,237
+Person 450,,11:39,05:03,Full Time,141
+Person 451,,11:52,04:25,Part Time,151
+Person 452,,07:23,10:21,Full Time,121
+Person 453,,07:46,06:16,Full Time,126
+Person 454,,05:59,11:37,Part Time,188
+Person 455,,10:15,09:26,Part Time,73
+Person 456,,09:19,03:52,Part Time,124
+Person 457,,07:59,10:23,Full Time ,110
+Person 458,,05:45,06:48,Part Time,128
+Person 459,,10:53,04:20,Part Time,192
+Person 460,,11:28,06:58,Full Time,200
+Person 461,,11:29,04:11,Part Time,153
+Person 462,,07:55,08:58,Full Time,168
+Person 463,,11:29,04:44,Full Time ,230
+Person 464,,08:42,08:31,Full Time,107
+Person 465,,11:22,04:52,Part Time,94
+Person 466,,07:00,11:30,Part Time,190
+Person 467,,05:21,04:24,Full Time,209
+Person 468,,08:39,02:55,Part Time,233
+Person 469,,08:22,04:43,Full Time,102
+Person 470,,07:53,04:02,Part Time,223
+Person 471,,11:35,02:04,Full Time,142
+Person 472,,09:12,10:28,Full Time,65
+Person 473,,07:30,05:08,Part Time,105
+Person 474,,09:00,02:57,Part Time,228
+Person 475,,11:15,02:57,Part Time,86
+Person 476,,05:26,04:23,Full Time ,95
+Person 477,,05:10,08:39,Part Time,114
+Person 478,,09:32,08:12,Part Time,213
+Person 479,,11:46,06:32,Full Time,153
+Person 480,,09:53,08:13,Part Time,117
+Person 481,,06:59,05:31,Full Time,165
+Person 482,,11:28,03:59,Full Time ,179
+Person 483,,08:10,08:51,Full Time,94
+Person 484,,05:53,06:21,Part Time,213
+Person 485,,10:45,04:48,Part Time,246
+Person 486,,11:41,05:37,Full Time,93
+Person 487,,10:45,05:00,Part Time,73
+Person 488,,05:15,07:48,Full Time,108
+Person 489,,11:39,09:10,Part Time,149
+Person 490,,06:28,02:26,Full Time,169
+Person 491,,11:01,05:38,Full Time,247
+Person 492,,07:05,08:52,Part Time,95
+Person 493,,09:54,07:21,Part Time,209
+Person 494,,10:53,08:22,Part Time,193
+Person 495,,05:48,11:01,Full Time ,75
+Person 496,,08:50,05:02,Part Time,247
+Person 497,,06:07,09:41,Part Time,237
+Person 498,,08:30,05:51,Full Time,240
+Person 499,,07:31,06:10,Part Time,140
+Person 500,,05:22,04:41,Full Time,128
+Person 501,,06:08,08:47,Full Time ,172
+Person 502,,11:36,07:26,Full Time,157
+Person 503,,08:56,11:45,Part Time,105
+Person 504,,11:24,08:47,Part Time,204
+Person 505,,07:16,10:39,Full Time,117
+Person 506,,08:18,10:52,Part Time,214
+Person 507,,08:21,07:53,Full Time,150
+Person 508,,09:40,09:47,Part Time,196
+Person 509,,10:59,10:02,Full Time,216
+Person 510,,10:09,08:30,Full Time,215
+Person 511,,05:04,10:46,Part Time,70
+Person 512,,06:06,11:26,Part Time,93
+Person 513,,09:21,08:53,Part Time,155
+Person 514,,07:51,09:58,Full Time ,163
+Person 515,,06:59,06:02,Part Time,64
+Person 516,,07:37,07:12,Part Time,158
+Person 517,,08:56,07:30,Full Time,162
+Person 518,,07:54,09:46,Part Time,194
+Person 519,,09:16,08:09,Full Time,214
+Person 520,,07:28,10:17,Full Time ,245
+Person 521,,10:41,04:28,Full Time,79
+Person 522,,05:47,05:59,Part Time,75
+Person 523,,08:32,10:18,Part Time,247
+Person 524,,10:13,11:09,Full Time,107
+Person 525,,09:44,04:01,Part Time,249
+Person 526,,09:15,05:21,Full Time,247
+Person 527,,06:59,06:48,Part Time,192
+Person 528,,11:02,10:37,Full Time,190
+Person 529,,05:22,08:36,Full Time,178
+Person 530,,10:37,02:32,Part Time,74
+Person 531,,05:19,07:19,Part Time,109
+Person 532,,05:16,06:18,Part Time,177
+Person 533,,11:05,07:58,Full Time ,105
+Person 534,,07:33,06:21,Part Time,251
+Person 535,,07:12,11:06,Part Time,78
+Person 536,,06:10,09:18,Full Time,193
+Person 537,,10:20,07:17,Part Time,182
+Person 538,,10:02,05:32,Full Time,136
+Person 539,,05:41,09:05,Full Time ,91
+Person 540,,11:47,04:37,Full Time,87
+Person 541,,07:32,02:54,Part Time,83
+Person 542,,08:58,08:39,Part Time,68
+Person 543,,10:26,02:05,Full Time,153
+Person 544,,06:05,04:44,Part Time,216
+Person 545,,07:38,06:32,Full Time,113
+Person 546,,05:21,08:55,Part Time,202
+Person 547,,11:35,05:09,Full Time,72
+Person 548,,06:14,09:22,Full Time,249
+Person 549,,05:24,06:57,Part Time,80
+Person 550,,09:40,04:09,Part Time,109
+Person 551,,05:44,10:17,Part Time,99
+Person 552,,08:21,06:53,Full Time ,170
+Person 553,,09:00,02:40,Part Time,153
+Person 554,,08:03,04:50,Part Time,252
+Person 555,,05:47,03:22,Full Time,237
+Person 556,,07:17,03:51,Part Time,93
+Person 557,,08:02,08:54,Full Time,183
+Person 558,,08:14,09:29,Full Time ,86
+Person 559,,05:15,05:13,Full Time,132
+Person 560,,07:23,08:14,Part Time,73
+Person 561,,06:49,08:05,Part Time,112
+Person 562,,05:42,06:27,Full Time,137
+Person 563,,08:45,02:11,Part Time,135
+Person 564,,09:04,09:26,Full Time,161
+Person 565,,11:25,05:46,Part Time,238
+Person 566,,07:04,04:08,Full Time,96
+Person 567,,09:56,07:49,Full Time,76
+Person 568,,10:36,04:35,Part Time,72
+Person 569,,08:11,10:52,Part Time,197
+Person 570,,07:49,08:35,Part Time,124
+Person 571,,10:37,04:12,Full Time ,232
+Person 572,,11:44,05:17,Part Time,96
+Person 573,,06:18,03:37,Part Time,125
+Person 574,,10:52,06:55,Full Time,221
+Person 575,,09:22,09:43,Part Time,181
+Person 576,,08:16,11:14,Full Time,67
+Person 577,,10:40,04:13,Full Time ,89
+Person 578,,07:27,09:13,Full Time,147
+Person 579,,09:38,09:00,Part Time,122
+Person 580,,10:28,09:42,Part Time,245
+Person 581,,09:12,11:01,Full Time,218
+Person 582,,07:53,07:37,Part Time,166
+Person 583,,11:11,10:46,Full Time,242
+Person 584,,06:12,08:37,Part Time,244
+Person 585,,08:00,08:23,Full Time,88
+Person 586,,07:39,02:21,Full Time,124
+Person 587,,08:14,10:06,Part Time,153
+Person 588,,06:04,10:11,Part Time,186
+Person 589,,09:57,02:32,Part Time,94
+Person 590,,08:19,07:56,Full Time ,66
+Person 591,,09:55,03:38,Part Time,149
+Person 592,,05:01,08:05,Part Time,189
+Person 593,,06:42,06:35,Full Time,186
+Person 594,,07:56,09:54,Part Time,76
+Person 595,,05:25,08:44,Full Time,215
+Person 596,,07:05,07:02,Full Time ,207
+Person 597,,08:39,06:18,Full Time,149
+Person 598,,10:06,03:23,Part Time,238
+Person 599,,06:52,11:44,Part Time,222
+Person 600,,10:23,06:32,Full Time,175
+Person 601,,05:20,02:25,Part Time,181
+Person 602,,05:29,08:29,Full Time,236
+Person 603,,08:14,04:31,Part Time,120
+Person 604,,06:07,03:07,Full Time,212
+Person 605,,05:12,07:55,Full Time,199
+Person 606,,11:55,05:30,Part Time,79
+Person 607,,07:58,04:40,Part Time,78
+Person 608,,10:29,05:59,Part Time,159
+Person 609,,05:15,05:01,Full Time ,110
+Person 610,,07:46,03:31,Part Time,129
+Person 611,,06:23,10:49,Part Time,235
+Person 612,,08:28,09:07,Full Time,216
+Person 613,,05:49,10:11,Part Time,171
+Person 614,,10:10,10:37,Full Time,190
+Person 615,,09:46,02:09,Full Time ,69
+Person 616,,08:51,11:32,Full Time,196
+Person 617,,07:28,05:03,Part Time,209
+Person 618,,09:36,11:31,Part Time,76
+Person 619,,06:29,09:39,Full Time,202
+Person 620,,08:28,11:53,Part Time,86
+Person 621,,11:06,05:24,Full Time,94
+Person 622,,05:18,10:01,Part Time,147
+Person 623,,09:14,05:39,Full Time,194
+Person 624,,10:03,08:49,Full Time,231
+Person 625,,05:27,02:10,Part Time,170
+Person 626,,05:10,08:12,Part Time,187
+Person 627,,10:16,08:59,Part Time,231
+Person 628,,09:14,10:41,Full Time ,231
+Person 629,,11:41,05:05,Part Time,127
+Person 630,,06:42,02:28,Part Time,245
+Person 631,,08:43,03:46,Full Time,123
+Person 632,,07:54,09:30,Part Time,224
+Person 633,,08:54,02:21,Full Time,221
+Person 634,,05:11,08:02,Full Time ,112
+Person 635,,08:52,02:19,Full Time,225
+Person 636,,05:25,03:33,Part Time,128
+Person 637,,08:28,08:55,Part Time,114
+Person 638,,09:05,08:53,Full Time,231
+Person 639,,06:24,05:33,Part Time,174
+Person 640,,10:24,10:59,Full Time,231
+Person 641,,06:30,10:41,Part Time,235
+Person 642,,07:25,08:01,Full Time,127
+Person 643,,06:57,08:25,Full Time,221
+Person 644,,07:30,03:31,Part Time,123
+Person 645,,09:56,02:14,Part Time,76
+Person 646,,09:59,05:26,Part Time,217
+Person 647,,10:10,02:50,Full Time ,107
+Person 648,,07:25,03:34,Part Time,107
+Person 649,,11:44,03:06,Part Time,200
+Person 650,,06:18,06:09,Full Time,143
+Person 651,,05:22,06:09,Part Time,114
+Person 652,,09:33,02:11,Full Time,188
+Person 653,,06:07,09:29,Full Time ,145
+Person 654,,09:51,09:25,Full Time,207
+Person 655,,05:30,10:44,Part Time,213
+Person 656,,09:40,06:29,Part Time,207
+Person 657,,11:47,07:28,Full Time,76
+Person 658,,07:01,02:41,Part Time,225
+Person 659,,08:36,07:03,Full Time,135
+Person 660,,10:23,05:19,Part Time,208
+Person 661,,08:12,07:42,Full Time,228
+Person 662,,11:50,09:31,Full Time,153
+Person 663,,10:00,02:21,Part Time,156
+Person 664,,05:46,11:11,Part Time,101
+Person 665,,09:16,02:32,Part Time,193
+Person 666,,07:48,09:18,Full Time ,208
+Person 667,,10:03,05:46,Part Time,122
+Person 668,,07:45,02:43,Part Time,230
+Person 669,,09:49,02:18,Full Time,196
+Person 670,,08:22,09:50,Part Time,84
+Person 671,,08:43,11:53,Full Time,111
+Person 672,,11:21,07:55,Full Time ,225
+Person 673,,08:27,10:24,Full Time,169
+Person 674,,09:53,09:22,Part Time,108
+Person 675,,11:09,06:03,Part Time,110
+Person 676,,08:54,02:26,Full Time,174
+Person 677,,11:23,04:29,Part Time,190
+Person 678,,10:02,03:59,Full Time,170
+Person 679,,11:06,07:14,Part Time,180
+Person 680,,11:26,09:07,Full Time,114
+Person 681,,06:03,05:40,Full Time,159
+Person 682,,08:33,09:39,Part Time,220
+Person 683,,09:35,07:22,Part Time,90
+Person 684,,08:40,06:14,Part Time,114
+Person 685,,09:26,07:27,Full Time ,217
+Person 686,,09:07,03:46,Part Time,118
+Person 687,,06:28,11:10,Part Time,205
+Person 688,,08:35,10:51,Full Time,79
+Person 689,,09:47,02:15,Part Time,246
+Person 690,,07:16,11:22,Full Time,68
+Person 691,,09:23,04:35,Full Time ,229
+Person 692,,09:51,11:32,Full Time,230
+Person 693,,11:18,05:38,Part Time,143
+Person 694,,07:18,04:01,Part Time,252
+Person 695,,06:19,07:20,Full Time,162
+Person 696,,09:31,10:42,Part Time,232
+Person 697,,08:13,05:39,Full Time,214
+Person 698,,11:37,06:01,Part Time,71
+Person 699,,05:32,11:14,Full Time,172
+Person 700,,05:36,11:43,Full Time,225
+Person 701,,08:53,09:15,Part Time,94
+Person 702,,10:04,02:42,Part Time,120
+Person 703,,09:48,04:55,Part Time,66
+Person 704,,05:18,08:08,Full Time ,127
+Person 705,,09:53,07:00,Part Time,75
+Person 706,,06:50,08:57,Part Time,96
+Person 707,,06:15,03:35,Full Time,81
+Person 708,,09:10,05:01,Part Time,212
+Person 709,,10:27,03:26,Full Time,228
+Person 710,,08:48,03:02,Full Time ,224
+Person 711,,07:09,03:29,Full Time,214
+Person 712,,05:09,11:01,Part Time,201
+Person 713,,08:17,11:42,Part Time,175
+Person 714,,11:51,11:08,Full Time,110
+Person 715,,07:17,10:47,Part Time,235
+Person 716,,11:59,08:59,Full Time,82
+Person 717,,11:19,09:05,Part Time,152
+Person 718,,10:42,11:51,Full Time,228
+Person 719,,08:00,06:43,Full Time,198
+Person 720,,07:36,09:19,Part Time,97
+Person 721,,08:25,03:25,Part Time,152
+Person 722,,07:21,06:58,Part Time,242
+Person 723,,05:47,03:50,Full Time ,209
+Person 724,,08:13,05:25,Part Time,122
+Person 725,,06:17,09:44,Part Time,235
+Person 726,,08:02,05:44,Full Time,244
+Person 727,,09:46,11:26,Part Time,239
+Person 728,,07:32,04:26,Full Time,202
+Person 729,,10:10,02:03,Full Time ,177
+Person 730,,09:15,03:36,Full Time,78
+Person 731,,06:39,03:16,Part Time,176
+Person 732,,05:03,08:12,Part Time,130
+Person 733,,11:57,06:46,Full Time,240
+Person 734,,06:22,04:16,Part Time,113
+Person 735,,08:40,05:56,Full Time,111
+Person 736,,10:07,10:20,Part Time,187
+Person 737,,10:24,10:52,Full Time,134
+Person 738,,11:28,04:42,Full Time,63
+Person 739,,07:15,03:14,Part Time,140
+Person 740,,06:29,03:37,Part Time,232
+Person 741,,09:19,02:05,Part Time,235
+Person 742,,06:31,06:59,Full Time ,176
+Person 743,,06:50,08:40,Part Time,233
+Person 744,,07:06,09:59,Part Time,98
+Person 745,,06:44,06:34,Full Time,180
+Person 746,,09:55,09:10,Part Time,198
+Person 747,,08:08,07:16,Full Time,214
+Person 748,,05:16,10:37,Full Time ,117
+Person 749,,09:15,05:31,Full Time,79
+Person 750,,07:49,08:09,Part Time,200
+Person 751,,09:53,06:38,Part Time,227
+Person 752,,08:33,08:09,Full Time,144
+Person 753,,05:14,02:35,Part Time,162
+Person 754,,10:16,02:30,Full Time,138
+Person 755,,10:58,08:06,Part Time,142
+Person 756,,09:21,05:51,Full Time,173
+Person 757,,07:52,11:16,Full Time,114
+Person 758,,07:37,11:17,Part Time,223
+Person 759,,06:38,09:14,Part Time,95
+Person 760,,05:13,09:11,Part Time,246
+Person 761,,11:37,04:13,Full Time ,73
+Person 762,,10:43,06:34,Part Time,132
+Person 763,,05:56,11:49,Part Time,202
+Person 764,,07:59,05:38,Full Time,68
+Person 765,,09:48,05:30,Part Time,233
+Person 766,,05:08,02:18,Full Time,155
+Person 767,,05:55,02:02,Full Time ,112
+Person 768,,07:09,05:39,Full Time,221
+Person 769,,11:45,11:06,Part Time,184
+Person 770,,05:52,10:29,Part Time,123
+Person 771,,11:15,03:52,Full Time,145
+Person 772,,05:15,04:47,Part Time,83
+Person 773,,08:47,04:34,Full Time,148
+Person 774,,09:16,08:08,Part Time,67
+Person 775,,06:55,11:26,Full Time,117
+Person 776,,08:58,11:37,Full Time,215
+Person 777,,08:22,10:20,Part Time,220
+Person 778,,06:28,02:57,Part Time,86
+Person 779,,09:30,02:10,Part Time,117
+Person 780,,08:46,09:28,Full Time ,106
+Person 781,,09:23,10:47,Part Time,221
+Person 782,,05:45,05:03,Part Time,238
+Person 783,,09:00,09:15,Full Time,84
+Person 784,,10:25,11:29,Part Time,240
+Person 785,,11:20,11:04,Full Time,152
+Person 786,,05:40,04:19,Full Time ,209
+Person 787,,08:06,09:45,Full Time,105
+Person 788,,06:46,09:13,Part Time,90
+Person 789,,10:29,10:19,Part Time,189
+Person 790,,05:55,08:05,Full Time,136
+Person 791,,11:17,03:31,Part Time,149
+Person 792,,08:32,02:59,Full Time,88
+Person 793,,10:01,08:40,Part Time,168
+Person 794,,08:56,03:31,Full Time,122
+Person 795,,08:57,07:16,Full Time,68
+Person 796,,06:52,09:52,Part Time,140
+Person 797,,09:54,05:06,Part Time,217
+Person 798,,09:58,11:14,Part Time,141
+Person 799,,06:34,09:31,Full Time ,78
+Person 800,,09:51,10:15,Part Time,230
+Person 801,,10:24,04:20,Part Time,79
+Person 802,,05:48,02:50,Full Time,193
+Person 803,,06:04,02:45,Part Time,175
+Person 804,,05:10,07:51,Full Time,241
+Person 805,,10:17,08:24,Full Time ,211
+Person 806,,10:16,04:29,Full Time,114
+Person 807,,07:00,02:12,Part Time,141
+Person 808,,10:38,10:53,Part Time,99
+Person 809,,08:06,03:18,Full Time,103
+Person 810,,11:15,11:03,Part Time,191
+Person 811,,09:55,03:57,Full Time,215
+Person 812,,11:32,02:29,Part Time,163
+Person 813,,05:23,10:54,Full Time,241
+Person 814,,11:30,02:28,Full Time,79
+Person 815,,11:42,08:58,Part Time,250
+Person 816,,10:43,07:35,Part Time,132
+Person 817,,11:34,02:24,Part Time,75
+Person 818,,09:10,02:46,Full Time ,185
+Person 819,,10:41,05:43,Part Time,188
+Person 820,,10:04,11:47,Part Time,188
+Person 821,,06:55,11:48,Full Time,132
+Person 822,,07:14,05:59,Part Time,63
+Person 823,,06:28,09:15,Full Time,150
+Person 824,,05:36,03:14,Full Time ,223
+Person 825,,10:47,05:19,Full Time,200
+Person 826,,06:17,09:32,Part Time,114
+Person 827,,08:24,02:43,Part Time,117
+Person 828,,05:26,03:23,Full Time,167
+Person 829,,10:53,07:06,Part Time,209
+Person 830,,05:32,05:43,Full Time,138
+Person 831,,06:58,04:37,Part Time,207
+Person 832,,11:56,05:28,Full Time,239
+Person 833,,09:26,11:04,Full Time,243
+Person 834,,11:39,05:23,Part Time,249
+Person 835,,05:13,04:44,Part Time,144
+Person 836,,09:16,10:58,Part Time,69
+Person 837,,09:11,04:14,Full Time ,83
+Person 838,,11:39,04:54,Part Time,243
+Person 839,,08:17,10:52,Part Time,93
+Person 840,,11:29,04:07,Full Time,170
+Person 841,,05:36,09:14,Part Time,164
+Person 842,,06:18,07:35,Full Time,94
+Person 843,,06:52,10:18,Full Time ,158
+Person 844,,08:50,03:05,Full Time,138
+Person 845,,11:30,10:25,Part Time,199
+Person 846,,07:46,05:00,Part Time,128
+Person 847,,09:27,10:57,Full Time,65
+Person 848,,05:08,02:42,Part Time,139
+Person 849,,06:59,02:26,Full Time,214
+Person 850,,08:57,10:12,Part Time,79
+Person 851,,09:01,10:30,Full Time,244
+Person 852,,06:50,09:28,Full Time,234
+Person 853,,05:08,08:52,Part Time,134
+Person 854,,09:25,06:08,Part Time,186
+Person 855,,07:40,05:04,Part Time,91
+Person 856,,09:43,02:31,Full Time ,152
+Person 857,,11:27,04:23,Part Time,135
+Person 858,,11:36,06:10,Part Time,243
+Person 859,,05:28,03:50,Full Time,163
+Person 860,,09:55,06:54,Part Time,129
+Person 861,,10:11,05:09,Full Time,82
+Person 862,,11:06,11:26,Full Time ,119
+Person 863,,08:09,11:51,Full Time,151
+Person 864,,10:34,05:23,Part Time,250
+Person 865,,07:33,09:19,Part Time,194
+Person 866,,06:36,10:36,Full Time,163
+Person 867,,11:02,09:04,Part Time,75
+Person 868,,09:23,04:38,Full Time,230
+Person 869,,07:08,03:00,Part Time,132
+Person 870,,09:11,11:59,Full Time,223
+Person 871,,10:42,11:58,Full Time,181
+Person 872,,07:00,08:27,Part Time,217
+Person 873,,06:01,05:57,Part Time,110
+Person 874,,08:31,05:55,Part Time,170
+Person 875,,06:38,11:46,Full Time ,66
+Person 876,,09:56,06:37,Part Time,64
+Person 877,,09:50,06:36,Part Time,125
+Person 878,,09:07,06:31,Full Time,221
+Person 879,,08:40,03:02,Part Time,142
+Person 880,,06:25,02:31,Full Time,173
+Person 881,,06:32,06:47,Full Time ,183
+Person 882,,08:36,06:33,Full Time,145
+Person 883,,06:04,06:39,Part Time,114
+Person 884,,06:36,05:08,Part Time,192
+Person 885,,08:29,03:55,Full Time,190
+Person 886,,05:29,07:36,Part Time,218
+Person 887,,06:49,02:05,Full Time,243
+Person 888,,09:32,11:50,Part Time,206
+Person 889,,05:22,10:53,Full Time,141
+Person 890,,07:16,08:54,Full Time,185
+Person 891,,08:27,06:20,Part Time,119
+Person 892,,11:22,08:36,Part Time,178
+Person 893,,09:59,02:59,Part Time,67
+Person 894,,06:22,03:31,Full Time ,181
+Person 895,,06:14,09:48,Part Time,64
+Person 896,,06:52,11:55,Part Time,246
+Person 897,,07:29,06:04,Full Time,155
+Person 898,,09:11,09:10,Part Time,157
+Person 899,,11:07,03:37,Full Time,94
+Person 900,,11:51,02:48,Full Time ,166
+Person 901,,08:57,10:40,Full Time,64
+Person 902,,10:29,02:17,Part Time,213
+Person 903,,08:12,07:23,Part Time,151
+Person 904,,11:36,08:52,Full Time,69
+Person 905,,05:14,03:34,Part Time,209
+Person 906,,11:22,09:52,Full Time,100
+Person 907,,11:40,02:52,Part Time,211
+Person 908,,09:03,03:15,Full Time,163
+Person 909,,07:55,10:57,Full Time,131
+Person 910,,11:24,02:20,Part Time,183
+Person 911,,09:54,05:22,Part Time,126
+Person 912,,05:32,10:55,Part Time,114
+Person 913,,10:04,05:54,Full Time ,229
+Person 914,,05:15,02:27,Part Time,135
+Person 915,,09:28,02:46,Part Time,109
+Person 916,,06:11,03:24,Full Time,178
+Person 917,,07:56,07:03,Part Time,196
+Person 918,,11:13,11:22,Full Time,141
+Person 919,,05:17,10:28,Full Time ,244
+Person 920,,08:31,11:13,Full Time,192
+Person 921,,11:20,06:23,Part Time,159
+Person 922,,05:38,02:03,Part Time,99
+Person 923,,08:32,10:43,Full Time,150
+Person 924,,08:14,10:47,Part Time,138
+Person 925,,07:21,09:39,Full Time,193
+Person 926,,09:32,02:23,Part Time,119
+Person 927,,09:16,04:29,Full Time,194
+Person 928,,11:43,07:31,Full Time,127
+Person 929,,08:28,05:54,Part Time,102
+Person 930,,11:55,06:47,Part Time,193
+Person 931,,07:56,06:36,Part Time,94
+Person 932,,05:23,11:17,Full Time ,218
+Person 933,,10:29,10:29,Part Time,217
+Person 934,,09:20,04:02,Part Time,221
+Person 935,,10:19,06:31,Full Time,82
+Person 936,,09:44,02:36,Part Time,155
+Person 937,,08:15,10:02,Full Time,99
+Person 938,,08:58,02:23,Full Time ,121
+Person 939,,05:59,10:46,Full Time,74
+Person 940,,10:35,08:26,Part Time,230
+Person 941,,10:30,08:20,Part Time,149
+Person 942,,09:27,08:52,Full Time,187
+Person 943,,06:11,07:31,Part Time,158
+Person 944,,08:01,06:22,Full Time,97
+Person 945,,10:29,07:35,Part Time,95
+Person 946,,07:49,09:44,Full Time,102
+Person 947,,07:46,09:00,Full Time,123
+Person 948,,09:14,02:52,Part Time,86
+Person 949,,07:49,02:04,Part Time,249
+Person 950,,07:19,11:46,Part Time,242
+Person 951,,09:59,03:18,Full Time ,112
+Person 952,,06:36,08:07,Part Time,223
+Person 953,,10:38,08:34,Part Time,84
+Person 954,,05:41,11:16,Full Time,202
+Person 955,,09:56,04:46,Part Time,135
+Person 956,,06:14,04:01,Full Time,202
+Person 957,,10:44,02:28,Full Time ,192
+Person 958,,06:32,07:12,Full Time,200
+Person 959,,10:10,10:05,Part Time,244
+Person 960,,07:44,05:09,Part Time,105
+Person 961,,11:12,07:22,Full Time,171
+Person 962,,09:19,08:31,Part Time,66
+Person 963,,11:46,05:53,Full Time,221
+Person 964,,11:13,03:58,Part Time,207
+Person 965,,05:56,02:37,Full Time,173
+Person 966,,07:22,02:30,Full Time,84
+Person 967,,06:00,03:58,Part Time,192
+Person 968,,10:06,11:12,Part Time,231
+Person 969,,10:47,04:24,Part Time,138
+Person 970,,11:24,11:48,Full Time ,132
+Person 971,,08:52,11:17,Part Time,182
+Person 972,,10:38,10:48,Part Time,73
+Person 973,,10:36,03:33,Full Time,234
+Person 974,,06:01,10:45,Part Time,65
+Person 975,,07:39,02:56,Full Time,72
+Person 976,,05:39,05:48,Full Time ,233
+Person 977,,08:16,07:04,Full Time,176
+Person 978,,11:39,09:38,Part Time,206
+Person 979,,08:03,10:06,Part Time,168
+Person 980,,09:00,06:03,Full Time,140
+Person 981,,07:36,09:51,Part Time,95
+Person 982,,05:34,05:37,Full Time,171
+Person 983,,06:53,07:59,Part Time,101
+Person 984,,08:13,03:04,Full Time,215
+Person 985,,08:25,08:00,Full Time,175
+Person 986,,10:54,03:29,Part Time,112
+Person 987,,09:19,03:20,Part Time,125
+Person 988,,09:30,08:49,Part Time,132
+Person 989,,05:32,07:16,Full Time ,237
+Person 990,,11:43,06:44,Part Time,223
+Person 991,,07:01,07:20,Part Time,252
+Person 992,,07:34,06:01,Full Time,231
+Person 993,,06:50,06:42,Part Time,179
+Person 994,,10:03,10:34,Full Time,179
+Person 995,,10:55,05:39,Full Time ,169
+Person 996,,05:37,06:16,Full Time,146
+Person 997,,07:22,11:28,Part Time,132
+Person 998,,05:52,02:39,Part Time,231
+Person 999,,09:39,04:44,Full Time,248
+Person 1000,,07:21,09:57,Part Time,111
